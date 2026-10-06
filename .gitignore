@@ -1,0 +1,6 @@
+*.exe
+*.blockmap
+latest.yml
+.DS_Store
+Thumbs.db
+
