@@ -1,0 +1,17 @@
+# OfferLoop Assist licensing
+
+OfferLoop Assist contains code under more than one open-source licence.
+
+## Original OfferLoop contributions
+
+Code and documentation originally created by OfferLoop contributors are licensed under the MIT License. The complete licence text is available at `LICENSES/MIT.txt`.
+
+## Inherited and derived portions
+
+Portions of this project are derived from the Free Cluely project and remain subject to the Apache License, Version 2.0. The complete licence text is available at `LICENSES/Apache-2.0.txt`.
+
+Upstream provenance and attribution are recorded in `THIRD-PARTY-NOTICES.txt`, `PROVENANCE.md`, `FILE-PROVENANCE.md`, and `COPYRIGHT`.
+
+No MIT notice in this repository removes, limits, or replaces rights and obligations that apply to Apache-2.0-covered or other third-party material. When a file contains both inherited Apache-2.0 material and original MIT-licensed modifications, all applicable licence conditions must be followed.
+
+Copyright ownership of individual contributions remains with their respective copyright holders unless transferred by a separate written agreement.

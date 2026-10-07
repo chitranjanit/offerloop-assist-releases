@@ -1,0 +1,50 @@
+OfferLoop Assist third-party notices
+====================================
+
+This product contains third-party and upstream open-source software. The
+copyright notices and licence terms of those projects remain applicable to
+their respective material.
+
+Free Cluely
+-----------
+
+Upstream project: Free Cluely
+Upstream repository: https://github.com/Prat011/free-cluely
+Upstream base commit: 712ddb3474af22886cd47786f7bb0f0a5bf526df
+Licence: Apache License, Version 2.0
+Licence text: LICENSES/Apache-2.0.txt
+
+OfferLoop Assist contains code and documentation derived from Free Cluely.
+OfferLoop contributors have modified the upstream work, including product
+branding, hosted authentication, account access, metering, payment integration,
+security controls, audio capture, screenshot processing, answer behavior, user
+interface, packaging, and release operations. See PROVENANCE.md and the Git
+history and FILE-PROVENANCE.md for the current modification record.
+
+Production dependencies
+-----------------------
+
+OfferLoop Assist also bundles npm packages and their transitive dependencies.
+Each dependency remains subject to its own licence and copyright notices. The
+package lockfile records the exact resolved dependency versions used by a
+release.
+
+Before every public release, the release owner must generate and review a
+production dependency licence inventory and append any attribution or notice
+text required by the exact bundled versions. This file is not a substitute for
+licence texts that a dependency requires to be reproduced in full.
+
+Removed dependency record: Sharp and libvips
+--------------------------------------------
+
+An earlier development revision used Sharp/libvips for legacy screenshot
+conversion. These packages were removed before the current release candidate
+and are not intended to be distributed. The final artifact inspection must
+confirm that no Sharp/libvips package or binary remains.
+
+No trademark licence
+--------------------
+
+Open-source licences do not grant rights to use third-party trademarks, logos,
+service marks, or product names except where a licence expressly permits the
+limited descriptive use required for attribution.
